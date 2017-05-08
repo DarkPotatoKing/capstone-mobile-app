@@ -1,7 +1,14 @@
 {
+   "log_headers":[
+      [
+         "Time",
+         "Plate#",
+         "Location"
+      ]
+   ],
    "log_data":[
       [
-         "9:30 PM",
+         "09:30 PM",
          "ABC123",
          "Alice's Dumpsite"
       ],
